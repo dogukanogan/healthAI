@@ -1,6 +1,6 @@
 # Person Management System
 
-Bu proje, SENG 384 dersi için geliştirilmiş bir tam yığın (full-stack) web uygulamasıdır. 
+Bu proje, SENG 384 dersi için geliştirilmiş bir full-stack web uygulamasıdır. 
 React (Vite), Node.js (Express), ve PostgreSQL kullanılarak geliştirilmiş olup, Docker Compose ile kapsayıcı (container) mimarisine alınmıştır.
 
 ## Kullanılan Teknolojiler
@@ -31,5 +31,3 @@ React (Vite), Node.js (Express), ve PostgreSQL kullanılarak geliştirilmiş olu
 | PUT | `/api/people/:id` | Var olan kişiyi günceller |
 | DELETE| `/api/people/:id` | Kişiyi siler |
 
-## Proje Görüntüleri
-*(Buraya daha sonra GitHub'a atarken uygulamanın ekran görüntülerini ekleyeceğim.)*
