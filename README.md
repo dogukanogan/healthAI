@@ -31,3 +31,13 @@ React (Vite), Node.js (Express), ve PostgreSQL kullanılarak geliştirilmiş olu
 | PUT | `/api/people/:id` | Var olan kişiyi günceller |
 | DELETE| `/api/people/:id` | Kişiyi siler |
 
+## Proje Görüntüleri
+
+### Kayıt Formu (Ana Sayfa)
+![Kayıt Formu](screenshots/mainPage.png)
+
+### Kişiler Listesi 
+![Kişiler Listesi](screenshots/peopleList.png)
+
+### Kişi Güncelleme
+![Kişi Güncelleme](screenshots/editPerson.png)
